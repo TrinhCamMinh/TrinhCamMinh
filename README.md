@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Trinh Cam Minh</h1>
+<image src='header.png'/>
 <h3 align="center">A passionate frontend developer from Viet Nam. My aim is to become an expert fullstack web developer in the future.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhct&label=Profile%20views&color=0e75b6&style=flat" alt="minhct" /> </p>
