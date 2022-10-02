@@ -32,5 +32,5 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhct&" alt="minhct" />
 </p>
-  <a href="https://app.daily.dev/MINHCT"><img src="https://api.daily.dev/devcards/179da4f668e74181a5f1953e049e6be6.png?r=19w" width="400" alt="Trịnh Cẩm Minh's Dev Card"/></a>
+  <a href="https://app.daily.dev/MINHCT"><img src="https://api.daily.dev/devcards/179da4f668e74181a5f1953e049e6be6.png?r=96r" width="400" alt="Trịnh Cẩm Minh's Dev Card"/></a>
 
