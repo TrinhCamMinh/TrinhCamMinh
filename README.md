@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Javascript, ReactJS,**
 
-- 📫 How to reach me **trinhcamminh25112002@gmail.com**
+- 📫 How to reach me **https://minhct.netlify.app/**
 
 - ⚡ Fun fact **I'm a little funny when meeting someone and always curious to thing that new to me**
 
