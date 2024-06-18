@@ -1,12 +1,12 @@
 <image src='header.png'/>
 <image src='https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif' width='100%' height='400px'/>
-<h3 align="center">A passionate web developer from Viet Nam. My goal is to become an expert <strong> <u>FullStack</u> </strong> Developer to bring people the best programming products I can</h3>
+<h3 align="center">👩‍💻 Vietnamese Full-Stack Developer | ✅ Building the future, one line of code at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhct&label=Profile%20views&color=0e75b6&style=flat" alt="minhct" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhct" alt="minhct" /></a> </p>
 
-- 👉 for freelance work? do reach, by email: trinhcamminh25112002@gmail.com
+- 👉 For freelance work? do reach, by email: trinhcamminh25112002@gmail.com
   
 - 🌱 I'm always curious about new technology including **Programming Languages, Machine Learning Models, and Data Analysis, ...**
 
