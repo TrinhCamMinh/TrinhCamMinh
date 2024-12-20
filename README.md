@@ -1,6 +1,6 @@
 <image src='header.png'/>
 <image src='https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif' width='100%' height='400px'/>
-<h3 align="center">👩‍💻 Vietnamese Full-Stack Developer | ✅ Building the future, one line of code at a time.</h3>
+<h3 align="center">👩‍💻 Full-Stack Developer | ✅ Building the future, one line of code at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhct&label=Profile%20views&color=0e75b6&style=flat" alt="minhct" /> </p>
 
